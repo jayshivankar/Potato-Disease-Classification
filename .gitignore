@@ -1,2 +1,8 @@
 api/ml-env/
 __pycache__/
+.vscode
+.pycharm
+.idea
+.ipynb_checkpoints
+models.config
+PlantVillage/
