@@ -100,7 +100,8 @@ Easily test your deployed model via tools like Postman using the provided HTTP t
 <summary>Click to expand</summary>
 
 #### Web UI
-![Web UI Screenshot](https://via.placeholder.com/600x300?text=React+Web+UI)
+![Uploading potato_disease_2.png…]()
+
 
 #### Mobile App
 ![Mobile UI Screenshot](https://via.placeholder.com/300x600?text=React+Native+App)
