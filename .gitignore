@@ -1,8 +1,13 @@
 api/ml-env/
 __pycache__/
-.vscode
-.pycharm
-.idea
-.ipynb_checkpoints
+# IDE/editor config folders
+.vscode/
+.pycharm/
+.idea/
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Custom config file
 models.config
-PlantVillage/
+
+
